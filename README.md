@@ -22,7 +22,7 @@
 ### Results
 
 1) The main factors affecting the business activity in San Francisco are :
-    ○ Nature of the business: Retail, Food services, and accommodations businesses were impacted negatively during Covid.
-    ○ Age of the Business: More Older(5+yrs) businesses have closed during the 2018-21 time period.
-    ○ Crime rates in an area is a significant predictor of business closure.
+    - Nature of the business: Retail, Food services, and accommodations businesses were impacted negatively during Covid.
+    - Age of the Business: More Older(5+yrs) businesses have closed during the 2018-21 time period.
+    - Crime rates in an area is a significant predictor of business closure.
 2) Active covid cases, vaccination rates did not have a significant impact on closing of a business.
